@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 FOSA WAS HERE #anbuKakashi
+=======
+FOSA WAS HERE !!!
+
+#anbuKakashi
+>>>>>>> 3fbe2642c6b7c414313a377609b5f7d55409038e
